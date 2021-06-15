@@ -9,7 +9,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^4.8.4",
+    "@vueuse/core": "^5.0.3",
     "vue": "^3.0.5"
   },
   "devDependencies": {
@@ -22,12 +22,11 @@
     "@vue/compiler-sfc": "^3.0.5",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.10",
-    "tailwindcss": "^2.1.1",
+    "tailwindcss": "^2.0.4",
     "vite": "^2.0.0-beta.70",
-    "vite-plugin-components": "^0.8.3",
-    "vite-plugin-compress": "^2.0.0",
+    "vite-plugin-components": "^0.11.1",
     "vite-plugin-compression": "^0.2.4",
     "vite-plugin-fonts": "^0.2.2",
-    "vite-plugin-icons": "^0.5.0"
+    "vite-plugin-icons": "^0.6.2"
   }
 }
