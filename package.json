@@ -1,7 +1,7 @@
 {
   "name": "vue3template",
   "version": "1.0.0",
-  "author": "Rodolfo Romamn <rromanv@gmail.com>",
+  "author": "Rodolfo Roman <rromanv@gmail.com>",
   "license": "ISC",
   "scripts": {
     "dev": "vite",
